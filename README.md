@@ -40,8 +40,3 @@ We utilized the **XGBoost (eXtreme Gradient Boosting)** regressor with a Histogr
 * XGBoost
 * Scikit-Learn
 * Matplotlib/Seaborn
-
-### Execution
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YourUsername/egypt-real-estate-prediction.git](https://github.com/YourUsername/egypt-real-estate-prediction.git)
